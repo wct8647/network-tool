@@ -1,0 +1,6 @@
+steam: 2.17.225.61
+google: 8.8.8.8
+cloudflare: 1.1.1.1
+meta: 185.60.218.35
+hepsiburada: 85.111.45.200
+trendyol: 104.18.174.21
